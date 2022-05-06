@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCY9MGslgIf083GAy5e/Xriy5E0Mab1+SbVIBL+dUPUeMk9s37KsKBgu5BsfZGKNUGvSfjX3YGvE4rQiaO7wdg==",
+  "success": true,
+  "projectFilePath": "/Users/mayank/Projects/RabbitMQ_Basic/fanout_publisher/fanout_publisher.csproj",
+  "expectedPackageFiles": [
+    "/Users/mayank/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/mayank/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/mayank/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

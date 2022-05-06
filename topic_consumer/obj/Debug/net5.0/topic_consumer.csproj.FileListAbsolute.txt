@@ -1,0 +1,17 @@
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.AssemblyInfoInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.AssemblyInfo.cs
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.csproj.CoreCompileInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/topic_consumer.deps.json
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/topic_consumer.runtimeconfig.json
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/topic_consumer.runtimeconfig.dev.json
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/topic_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/ref/topic_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/topic_consumer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.csproj.CopyComplete
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/ref/topic_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.genruntimeconfig.cache
+/Users/mayank/Projects/RabbitMQ_Basic/topic_consumer/obj/Debug/net5.0/topic_consumer.csproj.AssemblyReference.cache

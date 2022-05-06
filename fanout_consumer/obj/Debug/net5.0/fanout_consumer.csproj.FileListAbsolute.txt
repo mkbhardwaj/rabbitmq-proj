@@ -1,0 +1,16 @@
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/fanout_consumer.deps.json
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/fanout_consumer.runtimeconfig.json
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/fanout_consumer.runtimeconfig.dev.json
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/fanout_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/ref/fanout_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/fanout_consumer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.AssemblyInfoInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.AssemblyInfo.cs
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.csproj.CoreCompileInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.csproj.CopyComplete
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/ref/fanout_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/fanout_consumer/obj/Debug/net5.0/fanout_consumer.genruntimeconfig.cache

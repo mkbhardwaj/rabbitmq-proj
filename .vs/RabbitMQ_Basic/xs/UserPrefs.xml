@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{47E66D90-3414-40C8-B931-ED25238A60A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.default__producer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="topic_consumer/Program.cs">
+    <Files>
+      <File FileName="topic_consumer/Program.cs" Line="13" Column="34" />
+      <File FileName="topic_producer/Program.cs" Line="48" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RabbitMQ_Basic" expanded="True">
+            <Node name="default_consumer" expanded="True" />
+            <Node name="default_producer" expanded="True" />
+            <Node name="direct_consumer" expanded="True" />
+            <Node name="direct_producer" expanded="True" />
+            <Node name="fanout_consumer" expanded="True" />
+            <Node name="fanout_publisher" expanded="True" />
+            <Node name="topic_consumer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="topic_producer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

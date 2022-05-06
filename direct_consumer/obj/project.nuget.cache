@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4aShmtcWhs9O11rOYhxqWtxnq3T3+q9lX9cmlemqmRA6UVR2LUheUcA4u6IoxJBmr8aBVHK++/d6xu1VYArcA==",
+  "success": true,
+  "projectFilePath": "/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/direct_consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/mayank/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/mayank/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/mayank/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

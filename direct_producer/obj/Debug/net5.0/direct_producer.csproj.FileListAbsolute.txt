@@ -1,0 +1,16 @@
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/direct_producer.deps.json
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/direct_producer.runtimeconfig.json
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/direct_producer.runtimeconfig.dev.json
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/direct_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/ref/direct_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/direct_producer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.AssemblyInfoInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.AssemblyInfo.cs
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.csproj.CoreCompileInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.csproj.CopyComplete
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/ref/direct_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/direct_producer/obj/Debug/net5.0/direct_producer.genruntimeconfig.cache

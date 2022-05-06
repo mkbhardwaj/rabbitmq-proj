@@ -1,0 +1,16 @@
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/direct_consumer.deps.json
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/direct_consumer.runtimeconfig.json
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/direct_consumer.runtimeconfig.dev.json
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/direct_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/ref/direct_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/direct_consumer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.AssemblyInfoInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.AssemblyInfo.cs
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.csproj.CoreCompileInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.csproj.CopyComplete
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/ref/direct_consumer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/direct_consumer/obj/Debug/net5.0/direct_consumer.genruntimeconfig.cache

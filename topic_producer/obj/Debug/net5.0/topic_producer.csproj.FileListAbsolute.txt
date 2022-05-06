@@ -1,0 +1,17 @@
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/topic_producer.deps.json
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/topic_producer.runtimeconfig.json
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/topic_producer.runtimeconfig.dev.json
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/topic_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/ref/topic_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/topic_producer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.AssemblyInfoInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.AssemblyInfo.cs
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.csproj.CoreCompileInputs.cache
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.csproj.CopyComplete
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/ref/topic_producer.dll
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.pdb
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.genruntimeconfig.cache
+/Users/mayank/Projects/RabbitMQ_Basic/topic_producer/obj/Debug/net5.0/topic_producer.csproj.AssemblyReference.cache
